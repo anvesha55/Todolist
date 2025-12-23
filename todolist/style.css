@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(215, 138, 138);
+}
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
+#btn:hover{
+    background-color: blue;
+    color: white;
+}
